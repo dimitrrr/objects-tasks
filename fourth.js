@@ -25,3 +25,5 @@ function calcSalaries(obj){
         sum += obj[prop];
     return sum;
 }
+
+console.log("\n");
