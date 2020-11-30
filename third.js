@@ -1,4 +1,5 @@
 /*
+    Task #3
     We only have to check the following code and answer the question - is it possible to change the const object
 
     const user1 = {
